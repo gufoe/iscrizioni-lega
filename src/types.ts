@@ -1,0 +1,1 @@
+export type Persona = Record<string, string>;
